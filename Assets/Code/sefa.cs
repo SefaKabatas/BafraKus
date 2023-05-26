@@ -7,7 +7,7 @@ public class sefa : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        //deneme noktası
     }
 
     // Update is called once per frame
